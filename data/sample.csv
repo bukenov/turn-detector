@@ -1,0 +1,501 @@
+dialogue_id,turn_id,prefix_text,is_end,length_words,length_chars,last_word,ends_with_punct,has_question_word,last_pos,ends_with_prep
+PMUL3104.json,4,I need to depart broxbourne and travel,0,7,38,travel,0,0,NOUN,0
+MUL1679.json,8,I don't need to book it yet. What's,0,8,35,what's,0,0,PRON,0
+PMUL1501.json,14,"Yes, we'll need",0,3,15,need,0,0,VERB,0
+PMUL1555.json,6,I also need a,0,4,13,a,0,0,DET,0
+PMUL2395.json,0,I am looking for a cheap modern European restaurant. Can you,0,11,60,you,0,0,PRON,0
+PMUL0199.json,0,Hi. I'm looking for a relatively expensive international restaurant to dine at this evening. Is there one that you,0,19,114,you,0,0,PRON,0
+MUL1992.json,4,"Well, that's a little early, but it should work. I'd like to make a booking for",0,16,79,for,0,0,ADP,1
+PMUL2289.json,0,"Yeah, my wife and kids are",0,6,26,are,0,0,AUX,0
+PMUL2679.json,2,I'm not too,0,3,11,too,0,0,ADV,0
+MUL1867.json,2,"Yes, I'd love to visit a college. Is",0,8,36,is,0,0,AUX,0
+PMUL0383.json,2,I have no specific area,0,5,23,area,0,0,NOUN,0
+MUL1592.json,14,Yes I need it booked,0,5,20,booked,0,0,VERB,0
+PMUL0504.json,0,I need to catch a train in,0,7,26,in,0,0,ADP,1
+PMUL0849.json,8,Yes please book,0,3,15,book,0,0,PROPN,0
+MUL2219.json,6,I'm sorry. Yes. Please book the,0,6,31,the,0,0,DET,0
+MUL1464.json,8,I think I,0,3,9,i,0,0,PRON,0
+MUL1057.json,6,"I would like a three star hotel,",0,7,32,"hotel,",0,0,NOUN,0
+PMUL4937.json,6,Yes you can! I'm also looking for information,0,8,45,information,0,0,NOUN,0
+SNG01622.json,2,I,0,1,1,i,0,0,PRON,0
+PMUL1603.json,4,I need to leave after 14:45. I would like the,0,10,45,the,0,0,DET,0
+PMUL4829.json,10,"No thanks on the booking, we will do that later but that hotel is a fit for me. I am set, thank you for your",0,25,108,your,0,0,PRON,0
+PMUL2650.json,10,I just want to find somewhere in the,0,8,36,the,0,0,DET,0
+MUL0410.json,0,While in Cambridge,0,3,18,cambridge,0,0,PROPN,0
+MUL0169.json,12,I,0,1,1,i,0,0,PRON,0
+PMUL2800.json,10,No not,0,2,6,not,0,0,PART,0
+PMUL1501.json,8,Yes please for 4 people,0,5,23,people,0,0,NOUN,0
+SNG01966.json,2,I need to leave from the lucky,0,7,30,lucky,0,0,ADJ,0
+SSNG0319.json,2,I,0,1,1,i,0,0,PRON,0
+SNG0760.json,6,I would like a room,0,5,19,room,0,0,NOUN,0
+PMUL4100.json,6,Sounds good. There are a,0,5,24,a,0,0,DET,0
+MUL2404.json,8,"That sounds nice.Sure, I like a reservation in the",0,9,50,the,0,0,DET,0
+MUL1363.json,18,"Yes, may I confirm the",0,5,22,the,0,0,DET,0
+PMUL3572.json,12,That sounds great. May I,0,5,24,i,0,0,PRON,0
+PMUL3114.json,16,I,0,1,1,i,0,0,PRON,0
+PMUL3879.json,10,"Alright, I need rooms for the same group on the",0,10,47,the,0,0,DET,0
+PMUL3757.json,6,"Yes, that is perfect! Can you also find a restaurant in the centre? I'm looking",0,15,79,looking,0,0,VERB,0
+PMUL2108.json,12,"Sorry, you know what, I'll just walk in and demand",0,10,50,demand,0,0,NOUN,0
+MUL2262.json,12,"no,",0,1,3,"no,",0,0,INTJ,0
+PMUL3135.json,8,"That's fine, can you find one in the",0,8,36,the,0,0,DET,0
+SSNG0372.json,0,Hey I'm looking for,0,4,19,for,0,0,ADP,1
+PMUL0487.json,10,"No, any",0,2,7,any,0,0,DET,0
+MUL0649.json,0,"I would like to book a train that is running on Tuesday and departs anytime after 20:15,",0,17,88,"20:15,",0,0,NUM,0
+PMUL2159.json,8,"Thanks, I am also looking for somewhere to go in",0,10,48,in,0,0,ADP,1
+SNG01319.json,4,Can you also give me,0,5,20,me,0,0,PRON,0
+MUL1051.json,0,I am,0,2,4,am,0,0,AUX,0
+SNG0502.json,2,Is it an,0,3,8,an,0,0,DET,0
+PMUL2370.json,6,I need a table,0,4,14,table,0,0,NOUN,0
+PMUL2589.json,0,I need a hotel in the west part,0,8,31,part,0,0,NOUN,0
+SNG0638.json,2,Do,0,1,2,do,0,0,AUX,0
+MUL0070.json,12,"Yes, I also need a hotel. It should be moderately priced, include",0,12,65,include,0,0,VERB,0
+SSNG0206.json,4,I need booking from 1 people and 4 nights starting from,0,11,55,from,0,0,ADP,1
+MUL1705.json,0,I am traveling to the centre,0,6,28,centre,0,0,PROPN,0
+SNG01349.json,8,"Yes, could you please give me the travel time,",0,9,46,"time,",0,0,NOUN,0
+MUL0365.json,8,Yes please book it for seven,0,6,28,seven,0,0,NUM,0
+PMUL2572.json,0,What,0,1,4,what,0,1,PRON,0
+WOZ20620.json,4,I don't,0,2,7,don't,0,0,AUX,0
+PMUL4968.json,6,I need a restaurant that,0,5,24,that,0,0,SCONJ,0
+MUL1236.json,12,I also am,0,3,9,am,0,0,AUX,0
+MUL1033.json,10,I'd like to check,0,4,17,check,0,0,VERB,0
+SNG0251.json,0,Hello. Could you find a train leaving on Wednesday for,0,10,54,for,0,0,ADP,1
+MUL0464.json,6,I'm departing from Birmingham,0,4,29,birmingham,0,0,PROPN,0
+PMUL2960.json,2,That does not matter,0,4,20,matter,0,0,NOUN,0
+MUL0775.json,4,"The area doesn't matter, but",0,5,28,but,0,0,CCONJ,0
+PMUL4983.json,16,"That sounds good, can you book",0,6,30,book,0,0,PROPN,0
+PMUL2572.json,4,If there is nothing under,0,5,25,under,0,0,ADP,1
+PMUL1149.json,10,I need to arrive by,0,5,19,by,0,0,ADP,1
+MUL0205.json,6,I would like to book the 21:40 train on Wednesday for one person please. I also need a reference number,0,20,103,number,0,0,NOUN,0
+SSNG0346.json,2,Yes I would like a place in the north,0,9,37,north,0,0,NOUN,0
+PMUL2559.json,16,"Yes,",0,1,4,"yes,",0,0,INTJ,0
+MUL1181.json,2,I'd like to visit one with a low or free entrance fee. I also need to know in what area the museum is,0,23,101,is,0,1,AUX,0
+PMUL0880.json,8,I would like to leave from Cambridge and with my destination being London Liverpool Street. Thank you for,0,18,105,for,0,0,ADP,1
+PMUL1398.json,16,Thanks so,0,2,9,so,0,0,ADV,0
+MUL1812.json,2,I need to leave Sunday and arrive by,0,8,36,by,0,0,ADP,1
+MUL0718.json,8,"No, I",0,2,5,i,0,0,PRON,0
+PMUL0133.json,2,Could you check,0,3,15,check,0,0,VERB,0
+SNG01728.json,4,"No, I just need the address of",0,7,30,of,0,0,ADP,1
+MUL0085.json,18,Not today -,0,3,11,-,0,0,PUNCT,0
+PMUL3360.json,12,I would like,0,3,12,like,0,0,INTJ,0
+PMUL2044.json,6,I am also looking to,0,5,20,to,0,0,PART,0
+MUL2054.json,10,No not,0,2,6,not,0,0,PART,0
+MUL1306.json,22,"Actually, I know I said *after* we finish at the restaurant, but it turns out I need the taxi",0,19,93,taxi,0,0,NOUN,0
+MUL2450.json,12,Great,0,1,5,great,0,0,ADJ,0
+MUL2203.json,4,I would be open to a guesthouse if there are no 3 star hotels. I would like to stay in the moderate price range if,0,25,114,if,0,0,SCONJ,0
+PMUL4148.json,6,That sounds perfect! Can you reserve,0,6,36,reserve,0,0,NOUN,0
+PMUL3122.json,4,How about the guesthouse in the,0,6,31,the,0,1,DET,0
+MUL1454.json,20,"Yes, a train to Cambridge from london kings cross on Thursday by 18:30. If you can get",0,17,86,get,0,0,VERB,0
+PMUL0105.json,22,Just something to get me from point A to point,0,10,46,point,0,0,NOUN,0
+MUL1602.json,2,I need one in the moderate price,0,7,32,price,0,0,NOUN,0
+PMUL4433.json,8,How,0,1,3,how,0,1,SCONJ,0
+SNG0790.json,0,Hello. I am coming into town and would like help finding a play,0,13,63,play,0,0,VERB,0
+SNG1072.json,2,Do you have any suggestions? I would just,0,8,41,just,0,0,ADV,0
+SNG0726.json,4,That should do it for today.,0,6,28,today.,1,0,NOUN,0
+PMUL2559.json,24,no Have a nice,0,4,14,nice,0,0,ADJ,0
+MUL1023.json,8,Can you go ahead,0,4,16,ahead,0,0,ADV,0
+PMUL2979.json,12,"I want to confirm that the booked red Lexus is a taxi,",0,12,54,"taxi,",0,0,NOUN,0
+PMUL0218.json,0,I am looking for a 3-star guesthouse. Can,0,8,41,can,0,0,AUX,0
+PMUL4597.json,4,Yes please go ahead and book for 5 people for 5 nights starting,0,13,63,starting,0,0,VERB,0
+MUL2140.json,10,"Please,",0,1,7,"please,",0,0,INTJ,0
+MUL1782.json,10,Is there one that is in the type of,0,9,35,of,0,0,ADP,1
+PMUL3892.json,12,Can you get,0,3,11,get,0,0,VERB,0
+PMUL4804.json,0,I am excited to see some local attractions. Can,0,9,47,can,0,0,AUX,0
+PMUL3796.json,0,I'm looking for a good museum to visit in,0,9,41,in,0,0,ADP,1
+MUL0094.json,6,That sounds good. May I have their telephone number? Also could you help me finding a 4 star hotel in,0,20,101,in,0,0,ADP,1
+PMUL0894.json,18,Um are there,0,3,12,there,0,0,PRON,0
+PMUL2196.json,2,I would like to eat Italian food.,0,7,33,food.,1,0,NOUN,0
+PMUL4158.json,14,"No,",0,1,3,"no,",0,0,INTJ,0
+MUL0870.json,8,Are,0,1,3,are,0,0,AUX,0
+PMUL2475.json,12,"No, thank you. I need to consult",0,7,32,consult,0,0,VERB,0
+MUL1098.json,6,What about for 3 nights? Also can,0,7,33,can,0,1,AUX,0
+PMUL1938.json,8,Can you find,0,3,12,find,0,0,VERB,0
+MUL0335.json,12,"No, no need to book it for me. That",0,9,35,that,0,0,SCONJ,0
+MUL0793.json,6,"I'm sorry, we have that mixed up. I need to depart from",0,12,55,from,0,0,ADP,1
+MUL0169.json,16,Will the,0,2,8,the,0,0,DET,0
+MUL0975.json,10,"Yes, please book at table",0,5,25,table,0,0,NOUN,0
+PMUL0528.json,0,Please help me find an expensive restaurant,0,7,43,restaurant,0,0,NOUN,0
+PMUL2641.json,8,The star rating,0,3,15,rating,0,0,NOUN,0
+PMUL3951.json,14,Thanks for,0,2,10,for,0,0,ADP,1
+PMUL4696.json,4,Great. That's all I need,0,5,24,need,0,0,VERB,0
+PMUL1660.json,0,I need a place to stay. Find,0,7,28,find,0,0,VERB,0
+PMUL1126.json,2,"Yes, I'm looking for museums in the center of town, not a restaurant. Can you tell",0,16,82,tell,0,0,VERB,0
+MUL0683.json,4,I think I asked for that wrong...I'm sorry. I'd like to go to Peterborough from Cambridge on Tuesday after,0,19,106,after,0,0,ADP,1
+PMUL4852.json,20,"Thank you, what kind of car",0,6,27,car,0,1,NOUN,0
+PMUL0049.json,8,Chinese is,0,2,10,is,0,0,AUX,0
+MUL1708.json,8,Thank you. I'm also looking for places to go in town. What do you have,0,15,70,have,0,1,AUX,0
+MUL1483.json,10,I am leaving from Cambridge and headed to Stevenage. I would like to,0,13,68,to,0,0,PART,0
+PMUL3951.json,16,No that is all I needed.,0,6,24,needed.,1,0,VERB,0
+MUL1805.json,4,I'd like 3 if possible and also need the,0,9,40,the,0,0,DET,0
+PMUL1767.json,8,"No, but I do need free parking and wifi.",0,9,40,wifi.,1,0,NOUN,0
+SSNG0160.json,0,"I have to book a place to eat that serves irish food and is located in the centre,",0,18,82,"centre,",0,0,PROPN,0
+SNG0790.json,4,"No, but I would like for it to be moderately priced.",0,11,52,priced.,1,0,VERB,0
+PMUL1962.json,14,i am also looking for a guest house called a and,0,11,48,and,0,0,CCONJ,0
+PMUL1994.json,6,"Actually, I'd like",0,3,18,like,0,0,INTJ,0
+MUL1992.json,0,Hello,0,1,5,hello,0,0,INTJ,0
+PMUL2319.json,16,I'd like it for 7,0,5,17,7,0,0,NUM,0
+PMUL4647.json,6,That's,0,1,6,that's,0,0,DET,0
+MUL1369.json,6,"Yes, could you try just for one night starting on Friday? Please let me",0,14,71,me,0,0,PRON,0
+MUL0358.json,2,Please book a table for 4 at the Chinese place at 12:30 on Sunday and give me,0,17,77,me,0,0,PRON,0
+PMUL3096.json,0,i am looking for a place to stay.,0,8,33,stay.,1,0,VERB,0
+PMUL1501.json,14,"Yes, we'll need tickets for everyone",0,6,36,everyone,0,0,PRON,0
+PMUL4223.json,4,I want one on the west side of town. If,0,10,39,if,0,0,SCONJ,0
+MUL0943.json,2,Could you please provide me with some information on an attraction that is,0,13,74,is,0,0,AUX,0
+PMUL2845.json,10,"Yes, one person, 4 nights starting Wednesday.",0,7,45,wednesday.,1,0,PROPN,0
+PMUL2855.json,2,I am not particular as along,0,6,28,along,0,0,ADP,1
+PMUL2039.json,0,"Hello, I am traveling to Cambridge and I'd",0,8,42,i'd,0,0,PRON,0
+MUL0634.json,8,I would like to stay at the El,0,8,30,el,0,0,PROPN,0
+PMUL4419.json,2,"Yes, I would",0,3,12,would,0,0,AUX,0
+MUL1915.json,4,"Yes, that would work",0,4,20,work,0,0,VERB,0
+PMUL2856.json,8,i want it to be,0,5,15,be,0,0,AUX,0
+PMUL1906.json,10,Yes please. Can you tell me anything,0,7,36,anything,0,0,PRON,0
+SNG1039.json,4,It's,0,1,4,it's,0,0,PRON,0
+SNG01473.json,2,Thank,0,1,5,thank,0,0,VERB,0
+PMUL3836.json,2,I really don't,0,3,14,don't,0,0,AUX,0
+PMUL3543.json,2,I'll,0,1,4,i'll,0,0,PRON,0
+MUL1298.json,8,"I actually don't need a hotel booking right now, just the address you already gave me, and a confirmation of the hotel",0,22,118,hotel,0,0,NOUN,0
+SNG0865.json,2,"What about an expensive,",0,4,24,"expensive,",0,1,ADJ,0
+PMUL0916.json,12,That sounds great! Can you book tickets for everyone on that train?,0,12,67,train?,1,0,VERB,0
+MUL0094.json,0,"Hi, i'm looking for a local establishment that serves scottish cuisine. Could you recommend somewhere near the",0,17,110,the,0,0,DET,0
+MUL1538.json,6,"Thats a very unique name, and sounds like something I would like to",0,13,67,to,0,0,PART,0
+PMUL4815.json,2,Can you run one more search for korean cuisine in the centre area,0,13,65,area,0,0,NOUN,0
+MUL2518.json,12,Can you help me book a taxi between the Broughton House,0,11,55,house,0,0,PROPN,0
+MUL2327.json,2,Nope. Pick the place with the most,0,7,34,most,0,0,ADV,0
+PMUL4280.json,2,I will be traveling on,0,5,22,on,0,0,ADP,1
+MUL2602.json,10,Awesome! I will also need to book a tai to go from the,0,13,54,the,0,0,DET,0
+PMUL3652.json,0,i want to find,0,4,14,find,0,0,VERB,0
+MUL1639.json,8,I am departing from,0,4,19,from,0,0,ADP,1
+MUL0717.json,10,"Yes I need to inquire about a train from Peterborough to Cambridge for Thursday. I need the travel time, departure time and price.",0,23,130,price.,1,0,NOUN,0
+PMUL4506.json,12,"Okay, great. I'll also need a taxi to commute between",0,10,53,between,0,0,ADP,1
+PMUL1826.json,4,"I don't have any price range in mind,",0,8,37,"mind,",0,0,NOUN,0
+PMUL3989.json,8,i'm also looking for a train,0,6,28,train,0,0,VERB,0
+PMUL1007.json,2,Not really but I am departing,0,6,29,departing,0,0,VERB,0
+MUL0347.json,0,I need a,0,3,8,a,0,0,DET,0
+PMUL3144.json,8,The reservation will be,0,4,23,be,0,0,AUX,0
+MUL0094.json,8,"Oh, no,",0,2,7,"no,",0,0,INTJ,0
+PMUL1961.json,8,I need to,0,3,9,to,0,0,PART,0
+PMUL1643.json,14,Thank you for all,0,4,17,all,0,0,DET,0
+PMUL3189.json,6,Thanks much! Oh and I'd also like to,0,8,36,to,0,0,PART,0
+PMUL2138.json,22,Thank you. That was all I needed today.,0,8,39,today.,1,0,NOUN,0
+MUL2585.json,6,Can,0,1,3,can,0,0,AUX,0
+PMUL0121.json,8,"No, I don't have",0,4,16,have,0,0,AUX,0
+MUL0365.json,8,Yes please book it for seven people on the same day,0,11,51,day,0,0,NOUN,0
+PMUL0105.json,2,Please book a table for,0,5,23,for,0,0,ADP,1
+MUL2300.json,10,"Yes, please book the",0,4,20,the,0,0,DET,0
+MUL1429.json,6,That sounds goo. Can you book,0,6,29,book,0,0,PROPN,0
+MUL0157.json,2,"That sounds great, as long as it has free parking and is a",0,13,58,a,0,0,DET,0
+PMUL4954.json,8,I also need a moderate,0,5,22,moderate,0,0,ADJ,0
+MUL1114.json,6,Does,0,1,4,does,0,0,AUX,0
+PMUL1217.json,12,No that's,0,2,9,that's,0,0,DET,0
+MUL2449.json,2,"Yes, the",0,2,8,the,0,0,DET,0
+PMUL0233.json,6,yeah i want to,0,4,14,to,0,0,PART,0
+SNG02350.json,2,I need,0,2,6,need,0,0,VERB,0
+SNG0952.json,6,"Yes. I want to book it for 2 nights, 5 people starting on",0,13,57,on,0,0,ADP,1
+MUL0683.json,8,"In the north, please. I'm looking for a guesthouse with free wifi, it can be 0",0,16,78,0,0,0,NUM,0
+MUL0358.json,12,"Just one, thank you! Please provide me with a",0,9,45,a,0,0,DET,0
+PMUL0189.json,4,"No, I like the North. Perhaps there is a guesthouse that is",0,12,59,is,0,0,AUX,0
+SNG0818.json,6,"Yes, can you book that for me",0,7,29,me,0,0,PRON,0
+PMUL0218.json,10,That's great. I'd like to book a table for the same group at 14:15,0,14,66,14:15,0,0,NUM,0
+SNG01675.json,4,enjoyed,0,1,7,enjoyed,0,0,VERB,0
+PMUL3474.json,4,Great. I would like that. Can you book,0,8,38,book,0,0,PROPN,0
+PMUL4311.json,18,Can you email or fax me the information for my personal,0,11,55,personal,0,0,ADJ,0
+PMUL4157.json,14,"I think that should be it for today! Thank you so much for your help,",0,15,69,"help,",0,0,VERB,0
+PMUL2222.json,6,book a table for 7 at 14:45 on saturday and get me,0,12,50,me,0,0,PRON,0
+PMUL0962.json,8,Do they,0,2,7,they,0,0,PRON,0
+PMUL1178.json,4,Yes I also,0,3,10,also,0,0,ADV,0
+SNG1165.json,6,"How about free parking, does it have that as",0,9,44,as,0,1,ADP,1
+SNG0465.json,6,That is all I needed.,0,5,21,needed.,1,0,VERB,0
+PMUL0261.json,12,"It doesn't matter, as long as it is a guesthouse and",0,11,52,and,0,0,CCONJ,0
+PMUL1780.json,12,"Yes, please book it for",0,5,23,for,0,0,ADP,1
+PMUL0136.json,14,"No, thank you. Have a",0,5,21,a,0,0,DET,0
+SNG01513.json,6,How about,0,2,9,about,0,1,ADV,0
+SNG0312.json,8,"Nope, that's",0,2,12,that's,0,0,DET,0
+PMUL0850.json,0,"Hi,",0,1,3,"hi,",0,0,INTJ,0
+MUL1696.json,14,I,0,1,1,i,0,0,PRON,0
+MUL2565.json,2,That sounds good. Can,0,4,21,can,0,0,AUX,0
+PMUL0427.json,4,Yes. Are you able to make,0,6,25,make,0,0,VERB,0
+PMUL3343.json,4,"No, that will",0,3,13,will,0,0,AUX,0
+MUL2484.json,10,"No,",0,1,3,"no,",0,0,INTJ,0
+PMUL1038.json,10,Thank you. That was,0,4,19,was,0,0,AUX,0
+PMUL2889.json,12,"Thank you, that",0,3,15,that,0,0,SCONJ,0
+SNG0212.json,2,"No,",0,1,3,"no,",0,0,INTJ,0
+SNG01356.json,2,I'd like to leave,0,4,17,leave,0,0,VERB,0
+WOZ20440.json,0,I want to find a restaurant in the centre part of town and serves barbeque food. If not then how about modern,0,22,109,modern,0,1,ADJ,0
+MUL1230.json,10,A hotel and,0,3,11,and,0,0,CCONJ,0
+PMUL3121.json,6,I really like Italian food. What are the,0,8,40,the,0,1,DET,0
+PMUL1849.json,18,Thank you that,0,3,14,that,0,0,SCONJ,0
+PMUL2102.json,10,I'm going to need,0,4,17,need,0,0,VERB,0
+MUL0634.json,8,I would like to stay at the El Shaddai. I would like to,0,13,55,to,0,0,PART,0
+MUL1191.json,22,"Hmm, are you absolutely sure that there's no moderately priced places",0,11,69,places,0,0,NOUN,0
+PMUL3563.json,8,The,0,1,3,the,0,0,DET,0
+MUL1654.json,0,"Hi, can you give",0,4,16,give,0,0,VERB,0
+MUL0695.json,16,I,0,1,1,i,0,0,PRON,0
+PMUL0530.json,0,I would like to find a,0,6,22,a,0,0,DET,0
+PMUL0478.json,14,no that is it,0,4,13,it,0,0,PRON,0
+SSNG0041.json,4,Is there another restaurant in the same area and price,0,10,54,price,0,0,NOUN,0
+PMUL1555.json,6,I,0,1,1,i,0,0,PRON,0
+MUL2214.json,0,I am looking for a 4 star hotel,0,8,31,hotel,0,0,NOUN,0
+PMUL2621.json,6,I also want to go to an attraction in,0,9,37,in,0,0,ADP,1
+MUL0382.json,4,That sounds,0,2,11,sounds,0,0,VERB,0
+MUL0891.json,4,I have no preference. Can you please,0,7,36,please,0,0,INTJ,0
+MUL0793.json,6,"I'm sorry, we have that mixed up. I need to depart from leicester",0,13,65,leicester,0,0,PROPN,0
+MUL1817.json,10,What is the address and phone,0,6,29,phone,0,1,NOUN,0
+MUL1313.json,4,I would like a hotel,0,5,20,hotel,0,0,NOUN,0
+MUL2572.json,0,Can you book a hotel for me? I would like a 3 star hotel or greater in downtown Cambridge,0,19,89,cambridge,0,0,PROPN,0
+PMUL3873.json,12,That would be great!,0,4,20,great!,1,0,ADJ,0
+MUL2404.json,8,"That sounds nice.Sure, I like a reservation in the Gourmet Burger",0,11,65,burger,0,0,NOUN,0
+PMUL2596.json,14,"that's okay, give me the number for the college closest to",0,11,58,to,0,0,PART,0
+WOZ20322.json,0,I would like a moderately prices restaurant in,0,8,46,in,0,0,ADP,1
+MUL1708.json,6,What time does it arrive and whats,0,7,34,whats,0,1,PRON,0
+WOZ20620.json,0,I am looking for a restaurant,0,6,29,restaurant,0,0,NOUN,0
+PMUL2135.json,0,"Hi, I am planning a trip and could use",0,9,38,use,0,0,NOUN,0
+PMUL0947.json,12,The,0,1,3,the,0,0,DET,0
+SNG0787.json,6,How,0,1,3,how,0,1,SCONJ,0
+PMUL1935.json,12,"Great, that's all I need, thanks so much for your help! Have",0,12,60,have,0,0,AUX,0
+MUL1454.json,8,I would like to make,0,5,20,make,0,0,VERB,0
+SNG0638.json,0,Hello. Could,0,2,12,could,0,0,AUX,0
+PMUL1432.json,6,I am also looking for something,0,6,31,something,0,0,PRON,0
+MUL1062.json,6,What is the,0,3,11,the,0,1,DET,0
+SSNG0060.json,2,Is,0,1,2,is,0,0,AUX,0
+PMUL4111.json,12,"Yes, I need",0,3,11,need,0,0,VERB,0
+PMUL0552.json,4,Could you try an Italian,0,5,24,italian,0,0,PROPN,0
+PMUL1480.json,20,Please book,0,2,11,book,0,0,PROPN,0
+PMUL0361.json,6,Thanks. I,0,2,9,i,0,0,PRON,0
+MUL2314.json,6,Can you tell me more about The Tenpin? And can you give,0,12,55,give,0,0,VERB,0
+PMUL2662.json,14,Anything is fine as long as,0,6,27,as,0,0,ADP,1
+MUL1223.json,0,"Hello, I'm planning a trip to Cambridge and",0,8,43,and,0,0,CCONJ,0
+PMUL4330.json,0,"Hey, I'm headed to birmingham new street on Friday. Please find me",0,12,66,me,0,0,PRON,0
+MUL0728.json,16,Thank you - that's all I need today. Have,0,9,41,have,0,0,AUX,0
+PMUL3777.json,0,i am looking for places to go in town. The attraction should be in,0,14,66,in,0,0,ADP,1
+PMUL4886.json,10,"Yeah, that works. Can you recommend a 0 star",0,9,44,star,0,0,PROPN,0
+MUL0365.json,14,"Thank you, that is all I need at",0,8,32,at,0,0,ADP,1
+PMUL2960.json,12,Please arrange for a taxi to pick me up from the attraction at 21:00 and take me to the hotel. I'll need car,0,23,108,car,0,0,NOUN,0
+PMUL0427.json,20,"Ok, I think",0,3,11,think,0,0,VERB,0
+PMUL1440.json,2,"I'll be leaving from Cambridge on Saturday, and I need to",0,11,57,to,0,0,PART,0
+MUL1910.json,0,I will be visting in North Cambridge and would like to,0,11,54,to,0,0,PART,0
+SNG01513.json,6,How about italian?,0,3,18,italian?,1,1,ADJ,0
+PMUL4311.json,10,"Caffe Uno will be fine. Yes, I'll",0,7,33,i'll,0,0,PRON,0
+PMUL4932.json,4,Yes,0,1,3,yes,0,0,INTJ,0
+MUL2654.json,16,I would also like to book a taxi from the Archway House to one of the nightclubs you mentioned. I,0,20,97,i,0,0,PRON,0
+MUL1005.json,10,"I'd like to book a taxi between Saint John's College and the hotel, leaving the hotel at",0,17,88,at,0,0,ADP,1
+MUL0408.json,8,Great please looking for seven people and give me,0,9,49,me,0,0,PRON,0
+SNG1269.json,0,"Yes, I'm looking for",0,4,20,for,0,0,ADP,1
+SNG01164.json,2,"Yes, and",0,2,8,and,0,0,CCONJ,0
+PMUL2514.json,8,Surprise me. I,0,3,14,i,0,0,PRON,0
+PMUL3960.json,6,I would like to book a place,0,7,28,place,0,0,NOUN,0
+PMUL1204.json,6,"No, I don't need to book now.",0,7,29,now.,1,0,ADV,0
+PMUL4539.json,0,Can you help me get a,0,6,21,a,0,0,DET,0
+PMUL0704.json,0,We would like to eat some Japanese food while we are,0,11,52,are,0,0,AUX,0
+PMUL3280.json,6,Thank you! I also would like information about,0,8,46,about,0,0,ADV,0
+MUL2481.json,0,"Hello, I am looking for a place to dine. I'd",0,10,44,i'd,0,0,PRON,0
+MUL1023.json,8,Can you go ahead and book me a room,0,9,35,room,0,0,NOUN,0
+MUL1345.json,6,"No, address will do just fine. I need to book a hotel room",0,13,58,room,0,0,NOUN,0
+PMUL0189.json,0,I'm looking for a,0,4,17,a,0,0,DET,0
+MUL2370.json,12,"Yes the boat attraction, can I get the address and do the charge a fee, what",0,16,76,what,0,1,PRON,0
+PMUL1371.json,4,"I would like the train to leave after 9:30 on Saturday, can",0,12,59,can,0,0,AUX,0
+MUL0891.json,8,"Yes, on second thought I would like help finding a restaurant. What do you know about north",0,17,91,north,0,1,NOUN,0
+PMUL4498.json,6,"yes, please.",0,2,12,please.,1,0,INTJ,0
+PMUL0980.json,2,No I,0,2,4,i,0,0,PRON,0
+PMUL4270.json,12,Book table for 3 saturday at 19:30 and need reference,0,10,53,reference,0,0,NOUN,0
+MUL1917.json,10,I will be in the north part of town. I'm looking for a place to,0,15,63,to,0,0,PART,0
+PMUL2444.json,2,I am,0,2,4,am,0,0,AUX,0
+PMUL3892.json,8,Sounds good! Please book a table for 3 on Friday at 13:00 and be sure to provide,0,17,80,provide,0,0,VERB,0
+PMUL2904.json,6,Thanks. I would like some information,0,6,37,information,0,0,NOUN,0
+PMUL3948.json,10,No thank you. But could you,0,6,27,you,0,0,PRON,0
+PMUL3954.json,16,"Goodbye,",0,1,8,"goodbye,",0,0,INTJ,0
+PMUL4270.json,20,Thanks so,0,2,9,so,0,0,ADV,0
+MUL0429.json,4,What,0,1,4,what,0,1,PRON,0
+MUL1801.json,8,I am also looking for a particular attraction. The name of the place is Lynne Strover Gallery. Can you give me,0,21,110,me,0,0,PRON,0
+PMUL0115.json,6,I actually just need an expensive place to dine in the Centre of,0,13,64,of,0,0,ADP,1
+PMUL0977.json,4,I also need a,0,4,13,a,0,0,DET,0
+SNG0397.json,2,I will be traveling on monday and need to arrive by,0,11,51,by,0,0,ADP,1
+MUL0618.json,8,"I'd like to go ahead and book that for 1 person, 4 nights starting on Saturday night. I will need the reference number once it's",0,25,128,it's,0,0,PRON,0
+MUL0835.json,10,That's not necessary. I want to book a table,0,9,44,table,0,0,NOUN,0
+PMUL4571.json,6,"Not right now, thank you for your assistance.",0,8,45,assistance.,1,0,NOUN,0
+MUL2043.json,10,I'd prefer a hotel.,0,4,19,hotel.,1,0,NOUN,0
+PMUL4237.json,2,Does that hotel have a 3 star rating and,0,9,40,and,0,0,CCONJ,0
+PMUL1969.json,6,I need to book it,0,5,17,it,0,0,PRON,0
+MUL0877.json,2,"Great, that is very helpful.",0,5,28,helpful.,1,0,ADJ,0
+WOZ20058.json,2,Thank you,0,2,9,you,0,0,PRON,0
+PMUL2319.json,26,Thank you so much.,0,4,18,much.,1,0,ADJ,0
+PMUL3769.json,8,Can you recommend one and,0,5,25,and,0,0,CCONJ,0
+PMUL0088.json,10,Is there,0,2,8,there,0,0,PRON,0
+PMUL3524.json,0,i need,0,2,6,need,0,0,VERB,0
+SSNG0206.json,6,"yes, please try a",0,4,17,a,0,0,DET,0
+SSNG0335.json,4,"Yes,please try",0,2,14,try,0,0,VERB,0
+SNG1258.json,6,"Oh, I'm sorry I need to get",0,7,27,get,0,0,VERB,0
+MUL2371.json,8,I want to leave the restaurant by 2:00. The destination would be the,0,13,68,the,0,0,DET,0
+PMUL4158.json,2,What,0,1,4,what,0,1,PRON,0
+WOZ20121.json,6,What is its,0,3,11,its,0,1,PRON,0
+PMUL3799.json,6,"Great, thanks for the info.",0,5,27,info.,1,0,NOUN,0
+MUL1951.json,10,Yes can you get,0,4,15,get,0,0,VERB,0
+SNG01578.json,0,"I'd like to book a taxi, please. I need to get from the lensfield hotel to",0,16,74,to,0,0,PART,0
+PMUL1646.json,8,Does any of them have free,0,6,26,free,0,0,ADJ,0
+PMUL1361.json,2,I'm,0,1,3,i'm,0,0,PRON,0
+MUL1876.json,0,"Hi, I am",0,3,8,am,0,0,AUX,0
+MUL0044.json,0,I am,0,2,4,am,0,0,AUX,0
+PMUL4415.json,6,Yes I do,0,3,8,do,0,0,AUX,0
+MUL1654.json,8,I don't have,0,3,12,have,0,0,AUX,0
+WOZ20033.json,0,"Hey, could you tell me if there are any panasian restaurants",0,11,60,restaurants,0,0,NOUN,0
+PMUL0021.json,4,That sounds like a good option! Does it include internet? I won't be needing it during,0,16,86,during,0,0,ADP,1
+MUL0349.json,18,That was,0,2,8,was,0,0,AUX,0
+PMUL0378.json,12,Thanks!,0,1,7,thanks!,1,0,NOUN,0
+MUL2163.json,4,Sounds great! Thank you,0,4,23,you,0,0,PRON,0
+PMUL2183.json,6,I would also like to find,0,6,25,find,0,0,VERB,0
+SSNG0122.json,4,"Yes, please, I would like a reservation",0,7,39,reservation,0,0,NOUN,0
+PMUL4157.json,14,I think that should be it for,0,7,29,for,0,0,ADP,1
+PMUL0230.json,8,I'm actually interested the saffron brasserie and I'd like to book it for,0,13,73,for,0,0,ADP,1
+PMUL3749.json,8,"Yes, can you help me",0,5,20,me,0,0,PRON,0
+PMUL3032.json,22,Going from,0,2,10,from,0,0,ADP,1
+SSNG0246.json,0,Could you help me locate the Alpha Milton Guest,0,9,47,guest,0,0,NOUN,0
+PMUL4487.json,12,"Yes, that's perfect. Can you please book it for the same party",0,12,62,party,0,0,NOUN,0
+PMUL4097.json,4,"Great, thanks! Could you",0,4,24,you,0,0,PRON,0
+MUL1699.json,2,Leaving Birmignham,0,2,18,birmignham,0,0,PROPN,0
+MUL0429.json,14,That was all for,0,4,16,for,0,0,ADP,1
+MUL0164.json,12,"Thank you, that is all",0,5,22,all,0,0,DET,0
+PMUL4270.json,8,"Yes, I'd",0,2,8,i'd,0,0,PRON,0
+PMUL0185.json,16,"Yes, I need a taxi to the restaurant, I want to get there by the booking time. Nice car, no",0,20,91,no,0,0,INTJ,0
+PMUL0851.json,14,I will be,0,3,9,be,0,0,AUX,0
+SNG02277.json,0,I am looking for a place to stay. The hotel should be,0,12,53,be,0,0,AUX,0
+PMUL0425.json,2,On Sunday. I want to make sure it's the place I'm thinking of,0,13,61,of,0,0,ADP,1
+PMUL2399.json,6,Thank you.,0,2,10,you.,1,0,PRON,0
+SSNG0032.json,0,"Yes, I am looking for",0,5,21,for,0,0,ADP,1
+PMUL0031.json,0,I am traveling to Cambridge soon. I can't wait to,0,10,49,to,0,0,PART,0
+PMUL3848.json,0,Is there,0,2,8,there,0,0,PRON,0
+PMUL4372.json,4,"Yes, that",0,2,9,that,0,0,SCONJ,0
+PMUL2797.json,10,I'm not sure yet. I'm really researching right now. Can you please recommend a guesthouse,0,15,89,guesthouse,0,0,PROPN,0
+MUL2465.json,10,What,0,1,4,what,0,1,PRON,0
+MUL0817.json,6,"Just pick one in the same area as Queens' College, and can you book a table for 1 at 18:30 on",0,21,93,on,0,0,ADP,1
+MUL0285.json,0,I'd,0,1,3,i'd,0,0,PRON,0
+PMUL0667.json,0,I'm looking,0,2,11,looking,0,0,VERB,0
+MUL0335.json,8,Can you also help me,0,5,20,me,0,0,PRON,0
+SNG0425.json,0,Hello. I need a train leaving,0,6,29,leaving,0,0,VERB,0
+WOZ20671.json,0,"Hello,",0,1,6,"hello,",0,0,INTJ,0
+MUL2370.json,12,"Yes the boat attraction, can I",0,6,30,i,0,0,PRON,0
+MUL0873.json,4,Thank you. I just need the phone number and I'm wondering how much,0,13,66,much,0,1,ADJ,0
+MUL0223.json,12,Thank,0,1,5,thank,0,0,VERB,0
+PMUL1558.json,14,Yes please. Book it for 4 nights for 6 people. We'd love to,0,13,59,to,0,0,PART,0
+MUL1233.json,8,I am,0,2,4,am,0,0,AUX,0
+MUL2598.json,2,I don't care about wifi,0,5,23,wifi,0,0,NOUN,0
+MUL1336.json,6,"Hmm, that name doesn't inspire",0,5,30,inspire,0,0,NOUN,0
+SSNG0225.json,6,It doesn't have to be in the,0,7,28,the,0,0,DET,0
+PMUL3138.json,6,"Thanks, I'm also looking for a train for Friday that goes to",0,12,60,to,0,0,PART,0
+SNG1101.json,0,I'm in the north area of town and need to get a,0,12,47,a,0,0,DET,0
+PMUL4270.json,18,Thank,0,1,5,thank,0,0,VERB,0
+PMUL0486.json,10,I need the,0,3,10,the,0,0,DET,0
+WOZ20339.json,0,I'm looking for an expensive,0,5,28,expensive,0,0,ADJ,0
+PMUL1826.json,18,"No, thank you. I'd",0,4,18,i'd,0,0,PRON,0
+PMUL2508.json,10,you were able to get me 5 nights? Can you,0,10,41,you,0,0,PRON,0
+SSNG0018.json,2,Are there any,0,3,13,any,0,0,DET,0
+PMUL3291.json,6,"Yes, that",0,2,9,that,0,0,SCONJ,0
+PMUL4586.json,10,"Yes please. I'll also need the entrance fee, post code",0,10,54,code,0,0,NOUN,0
+PMUL0854.json,18,I will be departing from,0,5,24,from,0,0,ADP,1
+PMUL3129.json,2,Yes please,0,2,10,please,0,0,INTJ,0
+PMUL1780.json,16,"Thanks,",0,1,7,"thanks,",0,0,NOUN,0
+SNG0370.json,8,"No, I'm not ready to book yet. Thanks for",0,9,41,for,0,0,ADP,1
+PMUL3847.json,2,I don't have a preference. Which place,0,7,38,place,0,1,NOUN,0
+SNG1186.json,0,I am looking for a cheap hotel,0,7,30,hotel,0,0,NOUN,0
+MUL1239.json,6,Any of the two would work.,0,6,26,work.,1,0,NOUN,0
+MUL2031.json,6,Going to,0,2,8,to,0,0,PART,0
+PMUL3360.json,4,What is,0,2,7,is,0,1,AUX,0
+SSNG0158.json,0,I'm trying,0,2,10,trying,0,0,VERB,0
+MUL2692.json,0,"Hi, I'm shopping for colleges. Can you help me find one to visit",0,13,64,visit,0,0,VERB,0
+PMUL2979.json,8,Is it four star?,1,4,16,star?,1,0,PROPN,0
+PMUL0926.json,2,I need to go to leicester on saturday and arrive by 16:00,1,12,57,16:00,0,0,NUM,0
+PMUL3566.json,16,I will be traveling between the hotel and restaurant.,1,9,53,restaurant.,1,0,NOUN,0
+PMUL3360.json,2,The area doesn't matter but can you recommend one and give me their address?,1,14,76,address?,1,0,NOUN,0
+PMUL0900.json,8,Thanks. I also need a train from Bishops Stortford to Cambridge.,1,11,64,cambridge.,1,0,NOUN,0
+MUL2620.json,16,Terrific. Thanks for all your help. Goodbye!,1,7,44,goodbye!,1,0,INTJ,0
+MUL2304.json,22,Thank you. Have a great day!,1,6,28,day!,1,0,NOUN,0
+PMUL3086.json,0,I am planning a vacation and really could use some help finding a good place to stay in town. I've never been to Cambridge before.,1,25,130,before.,1,0,ADV,0
+WOZ20625.json,2,I don't care.,1,3,13,care.,1,0,NOUN,0
+SSNG0208.json,8,"Yes, please book rooms for 7 people for 3 nights starting on Monday.",1,13,68,monday.,1,0,PROPN,0
+WOZ20425.json,2,How about italian type of food?,1,6,31,food?,1,1,NOUN,0
+MUL2043.json,14,"Yes, could you try for a stay of 1 night?",1,10,41,night?,1,0,NOUN,0
+PMUL1445.json,2,"Yes, another area is fine.",1,5,26,fine.,1,0,ADJ,0
+MUL0218.json,6,Please book it for two people and send the reference number. We are also looking for a moderately priced place to dine in the town center.,1,26,138,center.,1,0,PROPN,0
+PMUL2502.json,18,It does Thank You have a good day.,1,8,34,day.,1,0,NOUN,0
+MUL0375.json,12,Great! That is all I need today.,1,7,32,today.,1,0,NOUN,0
+PMUL4254.json,22,"Yes, I need a taxi from the hotel to the restaurant, please. I need to get there by the reservation time.",1,21,105,time.,1,0,NOUN,0
+SNG01505.json,6,"No, I can arrive at anytime.",1,6,28,anytime.,1,0,ADV,0
+PMUL4549.json,16,"Great, thank you! That's all that I need. Have a great day!",1,12,59,day!,1,0,NOUN,0
+PMUL2061.json,16,I am also interested in the boat attraction. What is the entrance fee and postcode for that attraction?,1,18,103,attraction?,1,1,NOUN,0
+PMUL4829.json,0,i am looking for places to go in town. The attraction should be in the type of entertainment.,1,18,93,entertainment.,1,0,NOUN,0
+PMUL4311.json,16,I also need a taxi.,1,5,19,taxi.,1,0,NOUN,0
+SNG1038.json,0,Do you have information about the Lovell Lodge?,1,8,47,lodge?,1,0,VERB,0
+MUL1083.json,16,"Thank you so much, that is all I needed!",1,9,40,needed!,1,0,VERB,0
+PMUL1321.json,0,What does Cambridge have for parks on the east side?,1,10,52,side?,1,1,NOUN,0
+PMUL2964.json,4,Do you have any other suggestions?,1,6,34,suggestions?,1,0,NOUN,0
+SNG02216.json,6,"Great, that is everything I need today, thank you for your help.",1,12,64,help.,1,0,NOUN,0
+PMUL2228.json,6,Yes can you please book that?,1,6,29,that?,1,0,DET,0
+PMUL0021.json,18,"That is all, thanks.",1,4,20,thanks.,1,0,NOUN,0
+WOZ20599.json,4,No thank you.,1,3,13,you.,1,0,PRON,0
+PMUL2102.json,2,Which one is cheap?,1,4,19,cheap?,1,1,ADJ,0
+SNG01356.json,4,Great. That's all for today. Thanks,1,6,35,thanks,0,0,NOUN,0
+PMUL2919.json,2,Thanks. That answers my questions.,1,5,34,questions.,1,0,NOUN,0
+SNG01864.json,2,"Thank you, that's all I need. Good bye.",1,8,39,bye.,1,0,INTJ,0
+PMUL3313.json,2,The centre of town.,1,4,19,town.,1,0,NOUN,0
+SNG0171.json,0,I need the address to the Addenbrookes Hospital please.,1,9,55,please.,1,0,INTJ,0
+PMUL3762.json,4,Yes please. I did state that I wanted the phone number.,1,11,55,number.,1,0,NOUN,0
+PMUL2550.json,8,I'm not ready to book just yet. Do any have internet?,1,11,53,internet?,1,0,NOUN,0
+PMUL4983.json,2,I would be interested in seeing some interesting architecture.,1,9,62,architecture.,1,0,NOUN,0
+PMUL4530.json,0,I want to party at a nightclub while I am visiting. Got a good one for me?,1,17,74,me?,1,0,PRON,0
+PMUL3189.json,8,"I'd like modern American in the moderate price range, if possible?",1,11,66,possible?,1,0,ADJ,0
+SNG01813.json,2,"I need the postcode, please. I'm just getting general information for now.",1,12,74,now.,1,0,ADV,0
+PMUL3006.json,4,Also need a hotel in the same area and same price range.,1,12,56,range.,1,0,NOUN,0
+PMUL1873.json,4,"Yes, that would be fine. What are the names of the two guesthouses?",1,13,67,guesthouses?,1,1,NOUN,0
+SNG0946.json,12,"No, that's all the info I needed. Thanks so much for your help.",1,13,63,help.,1,0,NOUN,0
+SNG1258.json,12,That will be all. Thank you.,1,6,28,you.,1,0,PRON,0
+MUL1480.json,6,Ok. Thank you for the information.,1,6,34,information.,1,0,NOUN,0
+PMUL0199.json,16,Thank you. That is all that I need.,1,8,35,need.,1,0,NOUN,0
+MUL0420.json,4,"Yes, I would also like too book a train to Stevenage, I would like for it to arrive by 19:15.",1,20,93,19:15.,1,0,NUM,0
+WOZ20557.json,2,How about mediterranean food?,1,4,29,food?,1,1,NOUN,0
+PMUL4906.json,8,"No, could you just give me the price and the departure time please?",1,13,67,please?,1,0,INTJ,0
+MUL0497.json,8,I'll be leaving from stevenage,1,5,30,stevenage,0,0,NOUN,0
+MUL2572.json,12,Does that guesthouse come with free wifi?,1,7,41,wifi?,1,0,NOUN,0
+SNG1072.json,0,I'm looking for a place to go in the centre of town.,1,12,52,town.,1,0,NOUN,0
+PMUL3280.json,6,"Thank you! I also would like information about a train, please, leaving Cambridge after 21:00.",1,15,94,21:00.,1,0,NUM,0
+WOZ20499.json,8,Thank you goodbye.,1,3,18,goodbye.,1,0,INTJ,0
+PMUL3476.json,0,Is there a train from london liverpool street that arrives by 17:15?,1,12,68,17:15?,1,0,NUM,0
+SSNG0176.json,8,"Maybe try one more time, any type of food, exepensive, in the centre of town.",1,15,77,town.,1,0,NOUN,0
+MUL2239.json,4,That works great. Can you book it for 3 people for 4 nights starting on Friday.,1,16,79,friday.,1,0,PROPN,0
+PMUL3251.json,2,I'm looking for a place to eat in the centere of town in the expensive price range serving hungarian food.,1,20,106,food.,1,0,NOUN,0
+PMUL0316.json,10,The hotel doesn't need to include internet. It should be in the same area as the restaurant.,1,17,92,restaurant.,1,0,NOUN,0
+MUL2226.json,4,"Great, can I have it for 4 people for 2 nights on wednesday and also I need a reference number?",1,20,95,number?,1,0,NOUN,0
+SNG02020.json,4,I need to leave after 20:00 please.,1,7,35,please.,1,0,INTJ,0
+MUL1155.json,16,"No, that is wonderful. Have a nice day and thank you. Bye.",1,12,58,bye.,1,0,INTJ,0
+PMUL2294.json,2,I would like the centre.,1,5,24,centre.,1,0,PROPN,0
+PMUL3642.json,6,"I also need a train for Saturday, traveling from Cambridge to Norwich and I'd like to arrive by 12:15. Can you help with that?",1,24,126,that?,1,0,DET,0
+PMUL4959.json,6,"Could you check again? A moderate priced, 4 star hotel or guesthouse, that offers free wifi and parking.",1,18,104,parking.,1,0,NOUN,0
+PMUL2390.json,8,Great! Can I get the adress?,1,6,28,adress?,1,0,NOUN,0
+SSNG0206.json,0,I need a moderately priced guest house.,1,7,39,house.,1,0,PROPN,0
+PMUL4330.json,8,Are there any nightclubs in the south?,1,7,38,south?,1,0,ADJ,0
+MUL0907.json,10,"Yes, can you book me a taxi between those two? I'd like to arrive at the restaurant in time for my reservation please.",1,23,118,please.,1,0,INTJ,0
+PMUL4906.json,20,4 star please,1,3,13,please,0,0,INTJ,0
+MUL2007.json,10,I would like to leave on Tuesday after 18:00.,1,9,45,18:00.,1,0,NUM,0
+PMUL1873.json,14,i am going to ely and it should leave by 18:00,1,11,46,18:00,0,0,NUM,0
+MUL1387.json,2,Is it located in the centre?,1,6,28,centre?,1,0,PROPN,0
+MUL0710.json,2,I need someplace cheap near the center of town. Free wifi and free parking are a must.,1,17,86,must.,1,0,AUX,0
+MUL2362.json,8,"Yes, I would like to book for 18:45. Please let me know the reference number when you have it available.",1,20,104,available.,1,1,ADJ,0
+SNG01349.json,0,i am looking for a train that will arrive at 20:45 and leaving on sunday,1,15,72,sunday,0,0,PROPN,0
+MUL0718.json,14,May I have the reference number for the booking please?,1,10,55,please?,1,0,INTJ,0
+WOZ20024.json,2,Thank you goodbye.,1,3,18,goodbye.,1,0,INTJ,0
+SSNG0333.json,8,"North part of town,please.",1,4,26,"town,please.",1,0,NOUN,0
+PMUL0851.json,4,Lebanese food would be great.,1,5,29,great.,1,0,ADJ,0
+PMUL0834.json,12,that takes care of everything i need. thanks for the help. bye.,1,12,63,bye.,1,0,INTJ,0
+SSNG0214.json,2,What is its rating. I need a 4 star hotel?,1,10,42,hotel?,1,1,NOUN,0
+SSNG0114.json,0,I'm hoping to find a restaurant in the centre that serves British food.,1,13,71,food.,1,0,NOUN,0
+MUL1364.json,14,Thank you that's all I needed today.,1,7,36,today.,1,0,NOUN,0
+PMUL3503.json,0,i need a place to go in cambridge that has sports in the centre,1,14,63,centre,0,0,PROPN,0
+MUL1445.json,2,I want the expensive one. Can you give me some information on them?,1,13,67,them?,1,0,PRON,0
+MUL1907.json,0,Can you tell me about Christ's College?,1,7,39,college?,1,0,NOUN,0
+MUL2513.json,12,"No, that's all I need for now. Thank you for your help!",1,12,55,help!,1,0,VERB,0
+PMUL2619.json,4,I'm looking for tenpin I want the address and entrance fee.,1,11,59,fee.,1,0,NOUN,0
+MUL2114.json,6,Thank you that will work fine for me and my husband,1,11,51,husband,0,0,NOUN,0
+MUL1654.json,8,"I don't have a preference, but I'd like to book the same day for 2 people at 13:15. I also need the reference number.",1,24,117,number.,1,0,NOUN,0
+SNG0740.json,2,What's your favorite place on the south side of town?,1,10,53,town?,1,0,NOUN,0
+PMUL4087.json,12,Sounds great. Can you book a taxi to the church for me? I want to leave the hotel by 5:45.,1,20,90,5:45.,1,0,NUM,0
+PMUL1875.json,12,"Awesome, thanks a lot! Have a great day!",1,8,40,day!,1,0,NOUN,0
+SNG0320.json,2,I would like to leave after 09:45,1,7,33,09:45,0,0,NUM,0
+MUL0097.json,4,Could you book a table for 8 at 19:45 on Tuesday?,1,11,49,tuesday?,1,0,PROPN,0
+SNG1211.json,2,The Ashley Hotel sounds good. Does it have free parking?,1,10,56,parking?,1,0,NOUN,0
+MUL1708.json,8,"Thank you. I'm also looking for places to go in town. What do you have in the way of cinemas, in the center?",1,23,108,center?,1,1,PROPN,0
