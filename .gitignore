@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (raw and processed — too large for git)
+data/raw/
+data/processed/
+data/*.parquet
+
+# Models
+*.pkl
+*.joblib
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Misc
+*.log
