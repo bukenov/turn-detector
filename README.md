@@ -10,7 +10,7 @@
 
 ## Датасет
 
-[MultiWOZ 2.2](https://huggingface.co/datasets/multi_woz_v22) — ~8400
+[MultiWOZ 2.2](https://huggingface.co/datasets/pfb30/multi_woz_v22) — ~8400
 диалогов про бронирование отелей, ресторанов, такси.
 
 ## Стек
