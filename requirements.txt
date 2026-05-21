@@ -8,3 +8,4 @@ seaborn>=0.13.2
 jupyter>=1.0.0
 scipy>=1.13.0
 pyarrow>=17.0.0
+optuna>=3.6.0
