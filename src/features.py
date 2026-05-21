@@ -9,6 +9,15 @@ import spacy
 
 QUESTION_WORDS = {"what", "where", "when", "who", "why", "how", "which", "whose"}
 
+# Слова, начинающие вопрос — для нормализации входа без пунктуации
+QUESTION_STARTERS = {
+    "what", "where", "when", "who", "why", "how", "which", "whose",
+    "is", "are", "am", "was", "were",
+    "do", "does", "did",
+    "can", "could", "will", "would", "should", "shall", "may", "might",
+    "have", "has", "had",
+}
+
 NUMERIC_FEATURES = [
     "length_words",
     "length_chars",
@@ -33,13 +42,43 @@ def _get_nlp() -> spacy.language.Language:
     return _nlp
 
 
+def normalize_input(text: str) -> str:
+    """
+    Нормализация входа: добавляет терминальную пунктуацию если её нет.
+
+    Зачем: модель обучена на MultiWOZ, где почти все USER-реплики заканчиваются
+    пунктуацией. Современные STT-системы тоже автоматически расставляют точки/
+    вопросы, поэтому в продакшене пунктуация — это норма. Эта функция приводит
+    распределение входа API к обучающему, эмулируя поведение STT.
+
+    Эвристика:
+    - Если уже есть терминальная пунктуация — не трогаем
+    - Начинается с вопросительного слова → добавляем "?"
+    - Иначе → добавляем "."
+    """
+    text = text.strip()
+    if not text:
+        return text
+
+    if text[-1] in ".?!,;:":
+        return text
+
+    first_word = text.split()[0].lower()
+    if first_word in QUESTION_STARTERS:
+        return text + "?"
+
+    return text + "."
+
+
 def extract_features(text: str) -> dict:
     """
     Превращает текст префикса в словарь признаков.
-    
-    Возвращает dict со столбцами, ожидаемыми моделью.
+
+    Перед извлечением применяет normalize_input, чтобы согласовать
+    распределение со train-данными.
     """
-    text = text.strip()
+    text = normalize_input(text)
+
     if not text:
         return {
             "length_words": 0,
@@ -60,7 +99,7 @@ def extract_features(text: str) -> dict:
     return {
         "length_words": len(words),
         "length_chars": len(text),
-        "ends_with_punct": int(text.rstrip()[-1] in ".?!"),
+        "ends_with_punct": int(text[-1] in ".?!"),
         "ends_with_prep": int(last_pos == "ADP"),
         "has_question_word": int(
             any(w in text.lower().split() for w in QUESTION_WORDS)
