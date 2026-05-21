@@ -15,6 +15,7 @@ data/*.parquet
 
 # Models
 *.pkl
+!models/turn_detector.pkl
 *.joblib
 
 # OS / IDE
