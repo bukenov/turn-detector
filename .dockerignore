@@ -1,0 +1,16 @@
+.venv/
+.git/
+.gitignore
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+notebooks/
+data/raw/
+data/processed/
+data/*.parquet
+reports/
+.vscode/
+.idea/
+.DS_Store
+README.md
+*.md
