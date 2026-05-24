@@ -41,6 +41,7 @@ turn-detector/
 ├── reports/
 │   ├── midterm_report.md      # Промежуточный отчёт
 │   ├── final_report.md        # Финальный отчёт
+│   ├── Turn-Detector.pdf      # Презентация Demo Day
 │   └── figures/               # Графики для отчёта
 ├── Dockerfile
 └── requirements.txt
